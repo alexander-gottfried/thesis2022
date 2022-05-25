@@ -1,0 +1,8 @@
+*
+!*.*
+obj
+obj/*
+!Makefile
+.vscode/
+upload.sh
+*.log
